@@ -1,2 +1,2 @@
-# python_homework
-Here are my first Python assignments, PyBank and PyRamen
+# first_python
+Some introductory work with Python, PyBank and PyRamen
